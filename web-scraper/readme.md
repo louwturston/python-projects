@@ -7,3 +7,5 @@
 * Writing to a CSV file
 
 * Using a simulated site
+
+* Can be viewed in tabular programs
