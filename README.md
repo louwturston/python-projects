@@ -15,10 +15,9 @@
 
 * kaggel.com
 
-* API creation with Flask
+* simplilearn.com
  
-* Vanilla Python projects
-
+* github.com
 
 
 
