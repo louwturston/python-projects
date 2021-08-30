@@ -11,6 +11,14 @@
 
 ### Learning Materials
 
+* freeCodeCamp.org
+
+* Web Development with Flask
+
+* API creation with Flask
+ 
+* Vanilla Python projects
+
 
 
 
